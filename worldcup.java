@@ -8,6 +8,7 @@ public class bank {
                 a 12345
 			 System.out.println(" Modified code");
 a System.out.println("From local to repository");
+abcdefghijklm
 		 System.out.println("From lrepo to local"); merging
 		
 		
