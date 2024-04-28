@@ -17,6 +17,9 @@ public class bank {
 	public static void main(String[] args) {
 		
 		atm()1234;
+atm()1234;
+atm()1234;
+atm()1234;
 		
 	}
 	
