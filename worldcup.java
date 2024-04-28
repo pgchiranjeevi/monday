@@ -17,8 +17,8 @@ a System.out.println("From local to repository");
 	public static void main(String[] args) {
 		
 		atm()1234;
-ctm()1234;"I want this change"
-btm()1234;"very very imp line"
+ctm()1234;"I want this change 12345"
+btm()1234;"very very imp line 12345"
 btm()1234;
 		
 	}
